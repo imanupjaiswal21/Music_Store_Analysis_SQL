@@ -7,7 +7,7 @@ Analysis of the music playlist database. Examined the dataset with SQL and helpe
    
 2. PgAdmin4
 
-Schema- Music Store Database
+**Schema- Music Store Database**
 
 ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/imanupjaiswal21/Music_Store_Analysis_SQL/assets/56197362/cf6a1fe2-a8f1-4159-a581-d607f2b4db18)
 
